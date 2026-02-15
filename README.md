@@ -16,7 +16,9 @@
 - Active in creating and maintaining projects that emphasize **clarity, modularity, and best practices**.  <br>
 - Consistently exploring new concepts to improve efficiency and reduce common coding errors.  <br><br>
 ### Current Goals<br>
-- Strengthen Core Skills – Build a solid foundation in Java<br>- Master Web Development Basics – Learn responsive design, clean UI/UX practices, and modern frameworks like React.<br>- Develop Real-World -- - Projects – Create small but impactful applications to showcase problem-solving and creativity.  <br><br>📫 Reach me at: **anmolpoonam1976@gmail.com**  <br>
+- Strengthen Core Skills – Build a solid foundation in Java<br>
+- Master Web Development Basics – Learn responsive design, clean UI/UX practices, and modern frameworks like React.<br>
+- Develop Real-World Projects – Create small but impactful applications to showcase problem-solving and creativity.  <br><br>📫 Reach me at: **anmolpoonam1976@gmail.com**  <br>
 ---
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolsaxena45) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anmolsaxena45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolpoonam1976@gmail.com) 

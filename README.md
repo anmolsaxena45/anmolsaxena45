@@ -30,7 +30,7 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=anmolsaxena45&show_icons=true&theme=shadow_green)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anmolsaxena45&theme=shadow_green)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anmolsaxena45&theme=shadow_green)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsaxena45&layout=compact&theme=shadow_green)
 

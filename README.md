@@ -28,11 +28,18 @@
 
 ---
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=anmolsaxena45&show_icons=true&theme=shadow_green)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmolsaxena45&show_icons=true&theme=shadow_green" width="100%"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=anmolsaxena45&theme=shadow_green)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolsaxena45&theme=shadow_green" width="100%"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsaxena45&layout=compact&theme=shadow_green)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsaxena45&layout=compact&theme=shadow_green" width="100%"/>
+</p>
+
 
 
 
